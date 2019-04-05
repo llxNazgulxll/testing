@@ -1,7 +1,0 @@
-Bienvenido 
-probado notificcion con git                       - Listo*
-probando notificacion con Slack                   - Listo*
-probando notificacion por correo electronico  
-
-
-comit
